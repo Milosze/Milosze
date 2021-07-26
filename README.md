@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Milosze
 - 👀 I’m interested in programing and robotics
-- 🌱 I’m currently learning about Arduino
