@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @Milosze
-- 👀 I’m interested in programing and robotics
